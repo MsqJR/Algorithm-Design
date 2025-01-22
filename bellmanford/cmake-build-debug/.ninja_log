@@ -1,0 +1,13 @@
+# ninja log v6
+7	1127	7591406290250436	CMakeFiles/bellmanford.dir/bellman_ford.cpp.obj	b07b6a2f8ca803c9
+1130	1431	7591406301488920	bellmanford.exe	2f789e3dd253ec79
+15	867	7591406639168313	CMakeFiles/bellmanford.dir/bellman_ford.cpp.obj	b07b6a2f8ca803c9
+867	1126	7591406647697027	bellmanford.exe	2f789e3dd253ec79
+12	842	7591406877998956	CMakeFiles/bellmanford.dir/bellman_ford.cpp.obj	b07b6a2f8ca803c9
+842	1077	7591406886306474	bellmanford.exe	2f789e3dd253ec79
+17	845	7591406956936455	CMakeFiles/bellmanford.dir/bellman_ford.cpp.obj	b07b6a2f8ca803c9
+846	1089	7591406965232146	bellmanford.exe	2f789e3dd253ec79
+12	870	7591415215848772	CMakeFiles/bellmanford.dir/bellman_ford.cpp.obj	b07b6a2f8ca803c9
+871	1166	7591415224438155	bellmanford.exe	2f789e3dd253ec79
+14	1110	7591416861951958	CMakeFiles/bellmanford.dir/bellman_ford.cpp.obj	b07b6a2f8ca803c9
+1111	1330	7591416872912930	bellmanford.exe	2f789e3dd253ec79
